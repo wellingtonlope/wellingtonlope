@@ -4,7 +4,7 @@ Software Developer with graduated in Computing at Centro Universitário Estácio
 
 ![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonlope&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonlope&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me 📫
 - Email: wellington.lopes.tw@gmail.com
