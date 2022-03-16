@@ -9,4 +9,3 @@ Software Developer with graduated in Computing at Centro Universitário Estácio
 ## Contact me 📫
 - Email: wellington.lopes.tw@gmail.com
 - Linkedin: https://www.linkedin.com/in/wellingtonlope
-- Telegram: https://t.me/wellingtonlope
